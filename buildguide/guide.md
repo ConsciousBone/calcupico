@@ -8,7 +8,7 @@
 </details>  
   
 > [!CAUTION]
-> I am not responsible for any damages that may occur to your property while following this guide.
+> I am not responsible for any damages that may occur to your property while following this guide.  
 > By following this guide, you assume all responsibility for any damages that may occur.
   
 ## Required Parts  
