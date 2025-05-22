@@ -1,9 +1,9 @@
 # CalcuPico Build Guide  
 <details><summary>Changelog: <b>Click to expand</b></summary>
     
-      | Version | Date     | Comments          |
-      |---------|----------|-------------------|
-      | 0       | 22/05/25 | Created guide.md. |
+| Version | Date     | Comments          |
+|---------|----------|-------------------|
+| 0       | 22/05/25 | Created guide.md. |
       
 </details>  
   
@@ -24,9 +24,9 @@
 ## Prerequisites  
 
 <details><summary>Desolder the display's connector: <b>Click to expand</b></summary>
-    <p>
-      Desolder guide here
-    </p> 
+
+Desolder guide here
+   
 </details>  
 
 ## Guide  
