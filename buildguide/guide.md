@@ -19,7 +19,7 @@
 | 0.9" I2C OLED display | [The Pi Hut]() | The display comes with a connector soldered, which will have to be removed.                                                                                                           |
 | Wire                  | [The Pi Hut]() | 30AWG wire is used throughout this guide, and is recommended due to it fitting nicely inside the calculator, however other wire gauges *may* work.                                    |
 | Kapton tape           | [The Pi Hut]() | This is not required, but is highly recommended.                                                                                                                                      |
-| Casio fx-85GT CW      | [The Pi Hut]() | Other calculators *may* work, however this guide assumes the fx-85GT CW. If you decide to use a different calculator, ensure it has enough space inside to fit all of the components. I will not be able to provide hardware based support if you decide to use anything other than the Casio fx-85GT CW as I do not own every scientific calculator on the market. |
+| Casio fx-85GT CW      | [Amazon]() | Other calculators *may* work, however this guide assumes the fx-85GT CW. If you decide to use a different calculator, ensure it has enough space inside to fit all of the components. I will not be able to provide hardware based support if you decide to use anything other than the Casio fx-85GT CW as I do not own every scientific calculator on the market. |
 
 ## Guide  
 1. step 1
