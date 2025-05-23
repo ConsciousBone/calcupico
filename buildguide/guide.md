@@ -21,6 +21,8 @@
 | Kapton tape           | [The Pi Hut]() | This is not required, but is highly recommended.                                                                                                                                      |
 | Casio fx-85GT CW      | [Amazon]() | Other calculators *may* work, however this guide assumes the fx-85GT CW. If you decide to use a different calculator, ensure it has enough space inside to fit all of the components. I will not be able to provide hardware based support if you decide to use anything other than the Casio fx-85GT CW as I do not own every scientific calculator on the market. |
 
+You will also need a way to strip the wire (if you use wire that isn't already stripped), a screwdriver to open the calculator, a way to put holes into the calculator's back panel to access the BOOTSEL button and USB port of the Pi Pico, and a soldering iron to solder the wires to the vias on the PCB.
+
 ## Guide  
 1. step 1
 2. step 2
