@@ -13,8 +13,8 @@
   
 ## Required Parts  
 
-| Part                  | Link            | Notes                                                                                                                                                                                 |
-|-----------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Part                  | Link                       | Notes                                                                                                                                                                     |
+|-----------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Raspberry Pi Pico 2 W | [The Pi Hut]() | Any Pi Pico *should* work, but a Pico 2 W is recommended for its increased storage and processing power, and this guide assumes a Pico 2 W.                                           |
 | 0.9" I2C OLED display | [The Pi Hut]() | The display comes with a connector soldered, which will have to be removed.                                                                                                           |
 | Wire                  | [The Pi Hut]() | 30AWG wire is used throughout this guide, and is recommended due to it fitting nicely inside the calculator, however other wire gauges *may* work.                                    |
