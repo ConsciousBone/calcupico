@@ -1,5 +1,5 @@
 # CalcuPico Build Guide  
-<details><summary>Changelog: <b>Click to expand</b></summary>
+<details><summary><b>Changelog</b></summary>
     
 | Version | Date     | Comments          |
 |---------|----------|-------------------|
