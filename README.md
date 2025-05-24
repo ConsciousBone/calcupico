@@ -39,7 +39,7 @@ clear_exit_flag()
 
 ### Menus
 ```python
-run_menu_app("Title", ["Option 1", "Option 2"], [func1, func2])
+# TODO: insert menu function when i get around to porting it to SDK2
 ```
 
 ### WiFi (Pico W series only)
@@ -51,5 +51,5 @@ is_wifi_connected()
 
 ### Keyboard
 ```python
-text = show_keyboard()
+exampleText = show_keyboard()
 ```
