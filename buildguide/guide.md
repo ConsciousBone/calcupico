@@ -45,8 +45,8 @@ Look at the image below, and create holes in your back panel where they are posi
 
 TODO: add images  
 
-Finally, the solar panel has some support material behind it which will need removing.  
-Locate it using the image below, and cut it out.  
+Finally, the solar panel has some support material behind and around it which will need removing.  
+Locate it using the images below, and cut it out.  
 
 TODO: add images.
 
