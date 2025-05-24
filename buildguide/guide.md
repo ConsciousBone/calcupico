@@ -52,7 +52,7 @@ TODO: add images.
 
 ### Preparing the PCB
 *These next few steps are the hardest, so be prepared.*  
-Locate these vias on the PCB using the image below, and scrape off the black coating over them using a sharp object. This will expose some metal that we will be soldering to.  
+Locate the required vias on the PCB using the image below, and scrape off the black coating over them using a sharp object. This will expose some metal that we will be soldering to.  
 TODO: add images  
 
 Once you have removed the coating from the required vias, look at the image below, and mask off these areas with kapton tape. This will prevent any shorts that may occur.
