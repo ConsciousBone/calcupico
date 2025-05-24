@@ -36,10 +36,10 @@ TODO: add images
 
 ### Modifying the back panel
 Moving to the back panel, you will notice there is some plastic where the PCB is, holding it in place. We will need to remove some of this to make room for the Pi Pico.  
-Using a tool available to you, look at the image below and cut the circled plastic supports off of the back panel. You can leave the rest intact.  
-
+Using a tool available to you, look at the image below and cut the circled plastic supports off of the back panel, ending up with something like the image. You can leave the rest intact.  
+  
 TODO: add images  
-
+  
 Next, we need to make some holes in the case for accommodating the BOOTSEL button and the USB port of the Pi Pico. You may use any suitable tool for this, I used a soldering iron and melted the required holes in the back panel.  
 Look at the image below, and create holes in your back panel where they are positioned in the image.  
 
@@ -55,14 +55,16 @@ TODO: add images.
 Locate the required vias on the PCB using the image below, and scrape off the black coating over them using a sharp object. This will expose some metal that we will be soldering to.  
 TODO: add images  
 
-Once you have removed the coating from the required vias, look at the image below, and mask off these areas with kapton tape. This will prevent any shorts that may occur.
+Once you have removed the coating from the required vias, look at the image below, and mask off these areas with kapton tape. This will prevent any shorts that may occur. Please note that one of the vias is located under a plastic part of the display. Using a thin tool (such as a flat head screwdriver), this can be slightly pried up and safely cut out, giving you access to the required via.  
+
+TODO: add images  
 
 ### Preparing the wires
-Using the wire of your choice (preferably 30AWG if possible), cut ## medium sized wires, and 4 longer ones. The medium wires will run from the Pi Pico to the vias, and the 4 longer ones will run to the display.  
-An ideal size for the medium wires is around ##cm, and ##cm for the longer ones.   
+Using the wire of your choice (preferably 30AWG if possible), cut 8 medium sized wires, and 4 longer ones. The medium wires will run from the Pi Pico to the vias, and the 4 longer ones will run to the display.  
+An ideal size for the medium wires is around 9-10cm, and 14-15cm for the longer ones.   
 Once you have made the wires, strip them on both ends, and tin the ends.  
-
-TODO: add images, replace placeholder values.
+  
+TODO: add images.  
 
 ### Mounting the display
 **Option 1: Tape**  
@@ -75,7 +77,12 @@ TODO: add images.
 TODO: design bracket.  
 
 ### Soldering the wires
-TODO: write guide.  
+This is the hardest step, as occaisonally the vias will not solder. Take your time, have patience, and it will work eventually.  
+Looking at the table and image below, solder the 8 medium sized wires to the vias. You can either label them, or solder them to the Pico as we go.  
+  
+Next, solder the 4 longer wires to the display, using the table below.  
+  
+TODO: add images, add table  
 
 ### Installing CalcuPico software
 **Flash MicroPython**  
