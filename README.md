@@ -7,6 +7,8 @@ It uses the calculator's own buttons to control the UI, allowing the calculator 
 A simple app launcher.
 - **snake.py**  
 The iconic game of Snake.
+- **buttontest.py**  
+We use this in the build guide to ensure everything is working as expected.  
 - **wifimanager.py (Pico W series only)**  
 Manage the Pico's WiFi connection.
 - **wikipedia.py (Pico W series only)**  
