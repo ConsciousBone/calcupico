@@ -37,29 +37,37 @@ TODO: add images
 ### Modifying the back panel
 Moving to the back panel, you will notice there is some plastic where the PCB is, holding it in place. We will need to remove some of this to make room for the Pi Pico.  
 Using a tool available to you, look at the image below and cut the circled plastic supports off of the back panel. You can leave the rest intact.  
+
 TODO: add images  
+
 Next, we need to make some holes in the case for accommodating the BOOTSEL button and the USB port of the Pi Pico. You may use any suitable tool for this, I used a soldering iron and melted the required holes in the back panel.  
 Look at the image below, and create holes in your back panel where they are positioned in the image.  
-TODO: add images
+
+TODO: add images  
+
 Finally, the solar panel has some support material behind it which will need removing.  
-Locate it using the image below, and cut it out.
+Locate it using the image below, and cut it out.  
+
 TODO: add images.
 
 ### Preparing the PCB
 *These next few steps are the hardest, so be prepared.*  
 Locate these vias on the PCB using the image below, and scrape off the black coating over them using a sharp object. This will expose some metal that we will be soldering to.  
 TODO: add images  
+
 Once you have removed the coating from the required vias, look at the image below, and mask off these areas with kapton tape. This will prevent any shorts that may occur.
 
 ### Preparing the wires
 Using the wire of your choice (preferably 30AWG if possible), cut ## medium sized wires, and 4 longer ones. The medium wires will run from the Pi Pico to the vias, and the 4 longer ones will run to the display.  
 An ideal size for the medium wires is around ##cm, and ##cm for the longer ones.   
 Once you have made the wires, strip them on both ends, and tin the ends.  
-TODO: add images.
+
+TODO: add images, replace placeholder values.
 
 ### Mounting the display
 **Option 1: Tape**  
 Exactly how you mount the display is up to you, but I have included some images below as to how I recommend the display be taped in place.
+
 TODO: add images.
  
 **Option 2: 3D printed bracket**  
@@ -72,6 +80,7 @@ TODO: write guide.
 ### Installing CalcuPico software
 **Flash MicroPython**  
 TODO: write guide  
+
 **Copy CalcuPico apps to Pi Pico**  
 TODO: write guide  
 
