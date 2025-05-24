@@ -29,34 +29,35 @@ You will also need a way to strip the wire (if you use wire that isn't already s
 Unscrew the 6 Philips head screws on the back of the calculator, then remove the battery cover and back panel.  
 TODO: add images here  
 
-## Desoldering the solar panel
+### Desoldering the solar panel
 TODO: write guide
 
-## Modifying the back panel
+### Modifying the back panel
 TODO: write guide
 
-## Preparing the PCB
+### Preparing the PCB
 TODO: write guide
 
-## Preparing the wires
+### Preparing the wires
 TODO: write guide
 
-## Mounting the display
-### Option 1: Tape
-TODO: write guide
-### Option 2: 3D printed bracket
+### Mounting the display
+**Option 1: Tape**  
+TODO: write guide  
+ 
+**Option 2: 3D printed bracket**  
 TODO: write guide + design bracket 
 
-## Soldering the wires
+### Soldering the wires
 TODO: write guide
 
-## Installing CalcuPico software
-### Flash MicroPython
-TODO: write guide
-### Copy CalcuPico apps to Pi Pico
-TODO: write guide
+### Installing CalcuPico software
+**Flash MicroPython**  
+TODO: write guide  
+**Copy CalcuPico apps to Pi Pico**  
+TODO: write guide  
 
-## Testing
+### Testing
 TODO: write guide  
 
 **All done!** Now you have a fully functional CalcuPico. Feel free to continue onto [developing apps](#), or browse the app store for the apps and games you can install to your device!
