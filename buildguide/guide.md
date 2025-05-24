@@ -24,7 +24,7 @@
 
 You will also need a way to strip the wire (if you use wire that isn't already stripped), a screwdriver to open the calculator, a way to put holes into the calculator's back panel to access the BOOTSEL button and USB port of the Pi Pico, and a soldering iron to solder the wires to the vias on the PCB and to the display.
 
-## Guide  
+# Guide  
 ### Opening the calculator
 Unscrew the 6 Philips head screws on the back of the calculator, then remove the battery cover and back panel.  
 TODO: add images here  
